@@ -140,35 +140,3 @@ Fake News Detection in Python
 Topics
 python text-mining text-classification text-analysis classification logistic-regression fake-news svm-classifier fakenewsdetection
 Resources
- Readme
-License
- MIT license
- Activity
-Stars
- 597 stars
-Watchers
- 28 watching
-Forks
- 365 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-5
-
-Deployments
-7
- github-pages 3 years ago
-+ 6 deployments
-Languages
-Jupyter Notebook
-57.0%
- 
-CSS
-21.9%
- 
-Python
-21.1%
-Footer
